@@ -1,6 +1,7 @@
 # VRPB
-The Code and Supplemental File for "Deep Reinforcement Learning for Solving Vehicle Routing Problems with Backhauls". Please cite our paper if the code is useful for your project.
+The Code and Supplemental File for the paper:"Deep Reinforcement Learning for Solving Vehicle Routing Problems with Backhauls". Please cite our paper if the code is useful for your project.
 
+'''
 @article{wang2024deep,
   title={Deep Reinforcement Learning for Solving Vehicle Routing Problems With Backhauls},
   author={Wang, Conghui and Cao, Zhiguang and Wu, Yaoxin and Teng, Long and Wu, Guohua},
@@ -8,6 +9,7 @@ The Code and Supplemental File for "Deep Reinforcement Learning for Solving Vehi
   year={2024},
   publisher={IEEE}
 }
+'''
 
 # Dependencies
 * Python>=3.8
